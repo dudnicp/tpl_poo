@@ -1,29 +1,32 @@
-# PROJET Programation Orientée Objet 2019
+# JAVA PROJECT 2019
+# Multi-Agent System
 #### Groupe 65
 ===========================================
 
 
-### Description des dossiers du projet :
+### Folders description :
 
-* src : Fichiers sources .java
-* bin : Fichiers .class et .jar
-* doc_gui : Documentations des classes et méthodes de l'interface graphique
-* doc : Docummentation des classes et méthodes du projet
-
-
-### Compilation en ligne de commande: 
-
-* make testBalls : simulation des balls
-* make testConway : simulation du jeu de la vie de Conway
-* make testImmigration : simulation du jeu de l'immigration
-* make testSchelling : simulation du jeu de Schelling
-* make testBoids : simulation multi agent Poissons / Requins
-* make doc : compilation de la documentation
-* make all : compilation de tous les fichiers du projet
+* src : Source files .java
+* bin : Class files .class and .jar
+* doc_gui : Gui documentation
+* doc : Project classes and methods documentation
 
 
-### Execution en ligne de commande:
+### Compilation:
 
-Pour lancer chacune des simulations respectives:
+In the root folder type in shell:
+
+* make all : compiles everything, doc included
+* make testBalls : compiles the balls simulation
+* make testConway : compiles the Conway game of life simulation
+* make testImmigration : compiles the Immigration simulation 
+* make testSchelling : compiles the Schelling simulation 
+* make testBoids : compiles the Shark/Fish simulation
+* make doc : creates documentation
+
+
+### Execution:
+
+To launch each simulation, type respectivly:
 make exeBalls, make exeConway, make exeImmigration, make exeSchelling, make exeBoids
 
