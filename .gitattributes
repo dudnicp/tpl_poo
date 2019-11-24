@@ -1,5 +1,6 @@
-*.java linguist-detectable=true
-*.js linguist-detectable=false
-*.html linguist-detectable=false
-*.xml linguist-detectable=false
-*.css linguist-detectable=false
+* linguist-vendored
+*.java linguist-vendored=true
+*.js linguist-vendored=false
+*.html linguist-vendored=false
+*.xml linguist-vendored=false
+*.css linguist-vendored=false
