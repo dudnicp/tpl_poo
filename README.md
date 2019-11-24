@@ -27,6 +27,6 @@ In the root folder type in shell:
 
 ### Execution:
 
-To launch each simulation, type respectivly:
+In order to launch each simulation, type respectivly:
 make exeBalls, make exeConway, make exeImmigration, make exeSchelling, make exeBoids
 
