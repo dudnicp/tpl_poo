@@ -1,5 +1,2 @@
+* linguist-vendored
 *.java linguist-vendored=false
-*.js linguist-vendored=true
-*.html linguist-vendored=true
-*.xml linguist-vendored=true
-*.css linguist-vendored=true
