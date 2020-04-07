@@ -1,3 +1,9 @@
-/bin/
+/bin/balls
+/bin/boids
+/bin/cells
+/bin/events
+/bin/geometry
+/bin/simulator
+/bin/tests
 .classpath
 .project
